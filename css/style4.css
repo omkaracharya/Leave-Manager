@@ -1,0 +1,15 @@
+table{
+	margin: 50 auto;
+}
+
+form input{
+	margin-right: 50px;
+	width: 200px;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+form input:hover{
+	-webkit-transform:scale(1.1);
+	cursor: pointer;
+}
