@@ -19,6 +19,7 @@ Username and Password will authenticate the user to access the profile. Based on
 #### Back-end
 MySQL tables are created for `User`, `Leave` and `HOD`. `phpMyAdmin` is used to handle all the `PHP` and `MySQL` interfacing and for the creation of `MySQL` schema.  
 The database looks like:  
+
 ![Database](/schema/db1.png)
 
 ## Team Members
